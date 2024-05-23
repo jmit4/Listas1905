@@ -19,7 +19,10 @@ public class MainActivity extends ListActivity {
             "Ravioli",
             "Tacos",
             "Chilaquiles",
-            "Molletes"
+            "Molletes",
+            "Verduras asadas",
+            "Almuerzo",
+            "Club sandwich"
     };
 
     @Override
